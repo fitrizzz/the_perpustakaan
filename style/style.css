@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(219, 231, 242);
+}
+.borang{
+    width: 50%;
+    background-color: aliceblue;
+    align-items: center;
+    margin: auto;
+}
